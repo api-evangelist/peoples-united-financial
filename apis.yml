@@ -1,0 +1,41 @@
+aid: peoples-united-financial
+name: People's United Financial
+description: |-
+  Defunct U.S. regional bank holding company, headquartered in Bridgeport,
+  Connecticut. Acquired by M&T Bank Corporation in an all-stock deal valued at
+  approximately $7.6 billion. The acquisition was announced February 22, 2021
+  and closed April 2, 2022. People's United operated roughly 403 branches at
+  close and was fully integrated into M&T Bank by Q3 2022. The People's United
+  brand has been retired; peoples.com now 301-redirects to mtb.com. No public
+  developer program, OpenAPI definitions, SDKs, GitHub organization, or
+  documented APIs existed at any point during its operating history.
+image: ""
+url: https://www.mtb.com/
+created: 2026-05-22
+modified: 2026-05-23
+specificationVersion: "0.16"
+tags:
+- Banking
+- Regional Bank
+- Defunct
+- Acquired
+- Financial Services
+apis: []
+common:
+- type: Acquired By
+  url: https://www.mtb.com/
+- type: Acquisition Announcement
+  url: https://newsroom.mtb.com/2021-02-22-MT-Bank-Corporation-and-Peoples-United-Financial-Inc-Announce-Agreement-to-Combine
+- type: Wikipedia
+  url: https://en.wikipedia.org/wiki/People%27s_United_Financial
+maintainers:
+- FN: Kin Lane
+  email: info@apievangelist.com
+x-status: defunct
+x-acquired-by: mt-bank
+x-acquisition-close-date: 2022-04-02
+x-acquisition-value-usd: 7600000000
+x-acquisition-type: all-stock
+x-redirect-url: https://www.mtb.com/
+x-api-count: 0
+x-fortune-1000-rank: 916
