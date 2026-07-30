@@ -9,7 +9,18 @@ description: |-
   brand has been retired; peoples.com now 301-redirects to mtb.com. No public
   developer program, OpenAPI definitions, SDKs, GitHub organization, or
   documented APIs existed at any point during its operating history.
-image: ""
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/peoples-united-financial.png
 url: https://www.mtb.com/
 created: 2026-05-22
 modified: 2026-05-23
