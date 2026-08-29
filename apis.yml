@@ -9,6 +9,17 @@ description: |-
   brand has been retired; peoples.com now 301-redirects to mtb.com. No public
   developer program, OpenAPI definitions, SDKs, GitHub organization, or
   documented APIs existed at any point during its operating history.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
