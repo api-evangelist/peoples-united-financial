@@ -41,13 +41,14 @@ tags:
 - Regional Bank
 - Defunct
 - Acquired
-- Financial-Services
+- Financial Services
 tags_raw:
 - Banking
 - Regional Bank
 - Defunct
 - Acquired
 - Financial Services
+- Financial-Services
 apis: []
 common:
 - type: Acquired By
