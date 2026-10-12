@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/peoples-united-financial/integrations
+- https://zapier.com/apps/people-s-united-financial/integrations
+- https://n8n.io/integrations/peoples-united-financial/
+- https://composio.dev/toolkits/peoples-united-financial
+- https://monid.ai/tools/peoples-united-financial
+checked:
+- https://composio.dev/toolkits/peoples-united-financial
+- https://monid.ai/tools/peoples-united-financial
+- https://n8n.io/integrations/peoples-united-financial/
+- https://zapier.com/apps/people-s-united-financial/integrations
+- https://zapier.com/apps/peoples-united-financial/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
